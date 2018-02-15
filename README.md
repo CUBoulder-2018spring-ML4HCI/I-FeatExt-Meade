@@ -1,8 +1,8 @@
 # Feature Extraction Project - Week 5
 
-Jonathan Meade
-CSCI-4830
-Dr. Ben Shapiro
+Jonathan Meade  
+CSCI-4830  
+Dr. Ben Shapiro  
 
 ## Project Goals
 
@@ -11,4 +11,9 @@ on the overall sentiment of the tweets which were being published about said sub
 
 ## Tools and Libraries Used
 * Python 3.6.4
-*[Tweepy](https://www.tweepy.org)
+* [Tweepy](https://www.tweepy.org)
+
+## Accomplishments
+
+I was able to produce an output which played lower-pitch, "sadder" notes when the sentiment about a given topic was mostly negative and which regressively 
+played higher and higher notes the more positive the sentiment got. 
