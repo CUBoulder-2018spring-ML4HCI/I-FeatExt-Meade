@@ -4,8 +4,8 @@ class TwitterClient:
     def __init__(self):
         self.api = None
 
-    def connect(self, consumer_token="YOUR CONSUMER TOKEN", consumer_secret='YOUR CONSUMER SECRET',
-                access_token='YOUR ACCESS TOKEN', access_secret='YOUR ACCESS SECRET'):
+    def connect(self, consumer_token="CONSUMER_TOKEN", consumer_secret='CONSUMER_SECRET',
+                access_token='ACCESS_TOKEN', access_secret='ACCESS_SECRET'):
         auth = tweepy.OAuthHandler(consumer_token, consumer_secret)
         auth.set_access_token(access_token, access_secret)
 
