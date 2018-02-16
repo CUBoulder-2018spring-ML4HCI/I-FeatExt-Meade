@@ -44,7 +44,9 @@ The algorithm was trained on the following inputs:
 ## Example Tests
 Testing against the keyword 'beautiful' produces this lovely pink color
 ![beautiful_pink](https://raw.githubusercontent.com/meadej/I-FeatExt-Meade/master/readme_imgs/beautiful.PNG)
+
 Testing against the keyword 'weed' (a surprisingly controversial topic on Twitter) produces this middle of the ground
 orange
+
 ![weed_orange](https://raw.githubusercontent.com/meadej/I-FeatExt-Meade/master/readme_imgs/weed.PNG)
 
